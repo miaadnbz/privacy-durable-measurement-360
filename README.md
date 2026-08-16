@@ -67,6 +67,7 @@ The generated data will be clearly identified as synthetic and will not be prese
 
 - Measurement architecture and data dictionary
 - BigQuery SQL analysis
+- [GA4 data-quality findings and transaction-key methodology](docs/data_quality_findings.md)
 - Tested dbt transformation models
 - Customer-journey attribution analysis
 - Geo-holdout experiment analysis
@@ -84,7 +85,7 @@ The generated data will be clearly identified as synthetic and will not be prese
 - [x] Repository initialization and project charter
 - [x] Dedicated Google Cloud project
 - [x] Initial profiling of the public GA4 ecommerce dataset
-- [ ] Detailed GA4 event and schema profiling
+- [x] Detailed GA4 event and schema profiling
 - [ ] Analytical warehouse design
 - [ ] Customer-journey attribution
 - [ ] Geo-holdout incrementality analysis
