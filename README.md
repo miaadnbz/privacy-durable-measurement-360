@@ -78,6 +78,17 @@ The generated data will be clearly identified as synthetic and will not be prese
 - Joint measurement plan
 - Methodology and limitations documentation
 
-## Current Development Stage
+## Development Progress
 
-Environment verification and repository initialization.
+- [x] Environment verification
+- [x] Repository initialization and project charter
+- [x] Dedicated Google Cloud project
+- [x] Initial profiling of the public GA4 ecommerce dataset
+- [ ] Detailed GA4 event and schema profiling
+- [ ] Analytical warehouse design
+- [ ] Customer-journey attribution
+- [ ] Geo-holdout incrementality analysis
+- [ ] Meridian Marketing Mix Modeling
+- [ ] Experiment-calibrated budget optimization
+- [ ] Looker Studio dashboard
+- [ ] Executive recommendation deck
