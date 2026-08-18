@@ -69,6 +69,7 @@ The generated data will be clearly identified as synthetic and will not be prese
 - BigQuery SQL analysis
 - [GA4 data-quality findings and transaction-key methodology](docs/data_quality_findings.md)
 - [Analytical warehouse design](docs/warehouse_design.md)
+- [Customer-journey attribution methodology and findings](docs/attribution-methodology-and-findings.md)
 - Tested dbt transformation models
 - Customer-journey attribution analysis
 - Geo-holdout experiment analysis
@@ -88,7 +89,7 @@ The generated data will be clearly identified as synthetic and will not be prese
 - [x] Initial profiling of the public GA4 ecommerce dataset
 - [x] Detailed GA4 event and schema profiling
 - [x] Analytical warehouse design
-- [ ] Customer-journey attribution
+- [x] Customer-journey attribution
 - [ ] Geo-holdout incrementality analysis
 - [ ] Meridian Marketing Mix Modeling
 - [ ] Experiment-calibrated budget optimization
